@@ -15,13 +15,13 @@ cd dir_name
 mkdir - create a new directory
 
 ```python
-mkdir rohan
+mkdir niraj
 ```
 
 rmdir - remove a directory
 
 ```python
-rmdir rohan
+rmdir niraj
 ```
 
 pwd - print the current working directory
